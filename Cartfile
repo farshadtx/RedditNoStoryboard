@@ -1,0 +1,5 @@
+github "ReactiveX/RxSwift" ~> 3.0
+github "SwiftyJSON/SwiftyJSON"
+github "onevcat/Kingfisher" ~> 3.0
+github "Quick/Quick"
+github "Quick/Nimble"
